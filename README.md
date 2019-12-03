@@ -2,8 +2,8 @@
 
 Simple C version of Hello World
 
-#Build
+## Build
 make
 
-#Run
-hello
+## Run
+./hello
